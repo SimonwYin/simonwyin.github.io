@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weijun Yin"
-description              : "Incoming PhD student at The University of Utah"
+description              : # "Incoming PhD student at The University of Utah"
 repository               : "SimonwYin/simonwyin.github.io"
 google_scholar_stats_use_cdn : true
 
