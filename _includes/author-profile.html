@@ -120,6 +120,7 @@
       {% endif %}
       {% if author.gitee %}
         <li><a href="https://gitee.com/{{ author.gitee }}"><i class="si si-gitee" aria-hidden="true"></i> Gitee</a></li>
+        <li><a href="https://gitee.com/{{ author.gitee }}"><img src="images/cnblogs-logo.png" alt="博客园" style="width: 24px; height: 24px;"> Gitee</a></li>
       {% endif %}
       {% if author.blog %}
         <li><a href="https://cnblogs.com/{{ author.blog }}"><i class="si si-cnblogs" aria-hidden="true"></i> Blog</a></li>
@@ -223,7 +224,7 @@
         <a href="https://gitee.com/{{ author.gitee }}"><i class="si si-gitee" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.blog %}
-        <a href="https://cnblogs.com/{{ author.blog }}"><i class="si si-cnblogs" aria-hidden="true"></i></a>
+        <a href="https://cnblogs.com/{{ author.blog }}"><img src="images/cnblogs-logo.png" alt="博客园" style="width: 24px; height: 24px;"></i></a>
       {% endif %}
     </div>
   </div>
