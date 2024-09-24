@@ -117,9 +117,12 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
       {% if author.gitee %}
         <li><a href="https://gitee.com/{{ author.gitee }}"><i class="fab fa-fw fa-gitee" aria-hidden="true"></i> Gitee</a></li>
+      {% endif %}
+      {% if author.blog %}
+        <li><a href="https://cnblogs.com/{{ author.blog }}"><i class="fab fa-fw fa-blog" aria-hidden="true"></i> Blog</a></li>
       {% endif %}
     </ul>
       <div class="author__urls_sm">
@@ -217,7 +220,10 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.gitee %}
-        <li><a href="https://gitee.com/{{ author.gitee }}"><i class="fab fa-fw fa-gitee" aria-hidden="true"></i> Gitee</a></li>
+        <a href="https://gitee.com/{{ author.gitee }}"><i class="fab fa-fw fa-gitee" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.blog %}
+        <a href="https://cnblogs.com/{{ author.blog }}"><i class="fab fa-fw fa-blog" aria-hidden="true"></i></a>
       {% endif %}
     </div>
   </div>
