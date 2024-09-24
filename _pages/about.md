@@ -147,6 +147,6 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 ------
 
 <p align="center">
-  <i>If you truly desire to accomplish something, you absolutely can—so long as you really, really want it and are willing to pursue it.</i>
+  <i>If you truly desire to accomplish something, you absolutely can—so long as you really, really want it and are willing to pursue it.</i><br>
   <i>如果你想做成一件事，就一定能做成，只要你很想很想。</i>
 </p>
