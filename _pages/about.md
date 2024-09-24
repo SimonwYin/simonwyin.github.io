@@ -147,5 +147,6 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 ------
 
 <p align="center">
-  <i>I know I am not the perfect one, yet aspire to chase the world and achieve greatness@Ming Zhan</i>
+  <i>_If you truly desire to accomplish something, you absolutely can—so long as you really, really want it and are willing to pursue it._</i>
+  <i>_如果你想做成一件事，就一定能做成，只要你很想很想。_</i>
 </p>
