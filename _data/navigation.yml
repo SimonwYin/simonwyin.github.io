@@ -9,11 +9,15 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Projects"
+    url: "/#-projects"
+
+  #- title: "News"
+   # url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Internships"
-    url: "/#-internships"
+  #- title: "Internships"
+   # url: "/#-internships"
+
