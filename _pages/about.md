@@ -133,7 +133,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2023.09 - Present*, Master's candidate of Engineering in Network and Information Security, School of Cyber Science and Technology, Beihang University, Beijing, China
   - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 - *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
-  - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Wei You](https://faculty.xidian.edu.cn/YY8/zh_CN/index/396367/list/index.htm)
+  - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 
 <!--
 # 💬 Invited Talks
