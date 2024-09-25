@@ -36,6 +36,23 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
+
+# 📖 Educations
+- *2023.09 - Present*, Master's candidate of Engineering in Network and Information Security, School of Cyber Science and Technology, Beihang University, Beijing, China
+  - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+- *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
+  - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+  
+
+# 🎖 Honors and Awards
+- *2023.09* Second-Class Graduate Academic Scholarship
+- *2023.06* Postgraduate Second-Class Scholarship
+- *2022.10* National Encouragement Scholarship (Top 5%)
+- *2022.05* Outstanding Member of the Communist Youth League Member at School Level
+- *2021.10* National Encouragement Scholarship (Top 5%)
+- *2020.10* Second-Class Scholarship at School Level (Top 10%)
+
+
 # 🔥 News
 <!--
 - *2024.02*: &nbsp;New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
@@ -44,6 +61,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
 - *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 -->
+
 
 # 📝 Publications 
 <!--
@@ -113,27 +131,6 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 -->
 
 
-# 🎖 Honors and Awards
-- *2023.09* Second-Class Graduate Academic Scholarship
-- *2023.06* Postgraduate Second-Class Scholarship
-- *2022.10* National Encouragement Scholarship (Top 5%)
-- *2022.05* Outstanding Member of the Communist Youth League Member at School Level
-- *2021.10* National Encouragement Scholarship (Top 5%)
-- *2020.10* Second-Class Scholarship at School Level (Top 10%)
-
-<!--
-- *2024.06* Beijing Outstanding Graduate (Top 1%)
-- *2023.10* China National Scholarship (Top 1%)
-- *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
-- *2022.10* Postgraduate First-Class Scholarship (Top 10%)
--->
-
-
-# 📖 Educations
-- *2023.09 - Present*, Master's candidate of Engineering in Network and Information Security, School of Cyber Science and Technology, Beihang University, Beijing, China
-  - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
-- *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
-  - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 
 <!--
 # 💬 Invited Talks
