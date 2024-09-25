@@ -114,7 +114,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 
 # 🎖 Honors and Awards
-- *2023.09* Second-Class Academic Scholarship at School Level
+- *2023.09* Second-Class Graduate Academic Scholarship at School Level
 - *2023.06* Postgraduate Second-Class Scholarship
 - *2022.10* National Encouragement Scholarship (Top 5%)
 - *2022.05* Outstanding Member of the Communist Youth League Member at School Level
