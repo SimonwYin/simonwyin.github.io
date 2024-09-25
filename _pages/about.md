@@ -143,10 +143,9 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-
+<!--
 <span class='anchor' id='-internships'></span>
 # 💻 Internships
-<!--
 - 🎓During My Master's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
