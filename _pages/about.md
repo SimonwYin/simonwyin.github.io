@@ -36,14 +36,14 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
-
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2023.09 - Present*, Master's candidate of Engineering in Network and Information Security, School of Cyber Science and Technology, Beihang University, Beijing, China
   - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 - *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
   - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
   
-
+<span class='anchor' id='--honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2023.09* Second-Class Graduate Academic Scholarship
 - *2023.06* Postgraduate Second-Class Scholarship
@@ -53,6 +53,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2020.10* Second-Class Scholarship at School Level (Top 10%)
 
 <!--
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2024.02*: &nbsp;New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
 - *2023.12*: &nbsp;New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
@@ -61,10 +62,12 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 -->
 
-
+<span class='anchor' id='-projects'></span>
 # 🛠️ Projects
 
 
+
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 <!--
 - 🎓During My Master's Research Program
@@ -140,6 +143,8 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+
+<span class='anchor' id='-internships'></span>
 # 💻 Internships
 <!--
 - 🎓During My Master's Research Program
