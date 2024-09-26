@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a master student at [Beihang University(BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University(XDU)](https://www.xidian.edu.cn/), under supervision of Prof. Hui Li in June 2023.
+I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), under supervision of Prof. Hui Li in June 2023.
 
 <!--
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
@@ -64,7 +64,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-grants'></span>
 # 🌟 Grants
-- *2024.9 - present*, **Implementing a Comprehensive Federated Aggregation Algorithm Compatible with Poisoning Detection, Compression, Privacy Protection, and Non i.i.d. Based on MindSpore Federated**, [Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China(CSAC)](https://www.cybersac.cn/newhome) and [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/) (**60 winners nationwide, total amount: ￥60,000 RMB**)
+- *2024.9 - present*, **Implementing a Comprehensive Federated Aggregation Algorithm Compatible with Poisoning Detection, Compression, Privacy Protection, and Non i.i.d. Based on MindSpore Federated**, [Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China (CSAC)](https://www.cybersac.cn/newhome) and [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/) (**60 winners nationwide, total amount: ￥60,000 RMB**)
 
 
 <span class='anchor' id='-projects'></span>
