@@ -48,12 +48,12 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   
 <span class='anchor' id='--honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2023.09* Second-Class Graduate Academic Scholarship [[reference]()]
-- *2023.06* Postgraduate Second-Class Scholarship [[reference]()]
-- *2022.10* National Encouragement Scholarship (Top 5%) [[reference]()]
-- *2022.05* Outstanding Member of the Communist Youth League Member at School Level [[reference]()]
-- *2021.10* National Encouragement Scholarship (Top 5%) [[reference]()]
-- *2020.10* Second-Class Scholarship at School Level (Top 10%) [[reference]()]
+- *2023.09* Second-Class Graduate Academic Scholarship
+- *2023.06* Postgraduate Second-Class Scholarship
+- *2022.10* National Encouragement Scholarship (Top 5%)
+- *2022.05* Outstanding Member of the Communist Youth League Member at School Level
+- *2021.10* National Encouragement Scholarship (Top 5%)
+- *2020.10* Second-Class Scholarship at School Level (Top 10%)
 
 
 
