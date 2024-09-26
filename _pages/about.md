@@ -18,11 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), under supervision of Prof. Hui Li in June 2023.
+I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
+
+My research interest includes **Privacy-preserving Federated Learning** and **Privacy-enhancing Techniques** (including but not limited to Differential Privacy (DP), Homomorphic Encryption (HE), and Secure Multi-party Computation (SMPC)), I work to design and develop practical privacy-preserving tools for federated learning and any other big data technologies. **Currently, I am deeply involved in specific projects related to Federated Learning and Differential Privacy for my Master research.**
 
 <!--
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
 
 From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
@@ -31,6 +32,8 @@ In my first two years before joining ByteDance, I conducted research work on the
 My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
 You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
+-->
+
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
