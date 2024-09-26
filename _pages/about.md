@@ -55,6 +55,14 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2021.10* National Encouragement Scholarship (Top 5%) [[reference]()]
 - *2020.10* Second-Class Scholarship at School Level (Top 10%) [[reference]()]
 
+
+
+<span class='anchor' id='-news'></span>
+# 🔥 News
+- *2024.09*: &nbsp;I won the Cyber Security Academy Student Innovation Funding, Funded by Cyber Security Association of China (CSAC) and Huawei Technologies Co., Ltd.
+
+
+
 <!--
 <span class='anchor' id='-news'></span>
 # 🔥 News
