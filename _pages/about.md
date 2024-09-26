@@ -143,6 +143,11 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
 -->
 
+# 📑 Teaching Assistant
+- *2021 spring*, Mathematics for Information Security, XDU.
+
+
+# ✨ Miscellaneous
 
 
 <!--
