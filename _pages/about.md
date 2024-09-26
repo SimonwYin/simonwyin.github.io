@@ -143,10 +143,11 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
 -->
 
+<span class='anchor' id='teaching-assistant'></span>
 # 📑 Teaching Assistant
 - *2020-2021 spring*, Mathematics for Information Security, XDU.
 
-
+<span class='anchor' id='miscellaneous'></span>
 # ✨ Miscellaneous
 Apart from academic pursuits, I enjoy a wide range of sports such as swimming, cycling, badminton and ping-pong. Additionally, I am a passionate photographer, always seeking to capture the beauty of the world through my lens. One of my special hobbies is that I love all things about deduction and suspense, especially I am a fan of the anime 名探偵コナン (Detective Conan, 名侦探柯南) and the TV series Detective Dee (神探狄仁杰)!
 
