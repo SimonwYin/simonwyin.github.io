@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
+I am now a master student at [Beihang University(BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University(XDU)](https://www.xidian.edu.cn/), under supervision of Prof. Hui Li in June 2023.
 
 <!--
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
@@ -45,12 +45,12 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   
 <span class='anchor' id='--honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2023.09* Second-Class Graduate Academic Scholarship
-- *2023.06* Postgraduate Second-Class Scholarship
-- *2022.10* National Encouragement Scholarship (Top 5%)
-- *2022.05* Outstanding Member of the Communist Youth League Member at School Level
-- *2021.10* National Encouragement Scholarship (Top 5%)
-- *2020.10* Second-Class Scholarship at School Level (Top 10%)
+- *2023.09* Second-Class Graduate Academic Scholarship [reference]()
+- *2023.06* Postgraduate Second-Class Scholarship [reference]()
+- *2022.10* National Encouragement Scholarship (Top 5%) [reference]()
+- *2022.05* Outstanding Member of the Communist Youth League Member at School Level [reference]()
+- *2021.10* National Encouragement Scholarship (Top 5%) [reference]()
+- *2020.10* Second-Class Scholarship at School Level (Top 10%) [reference]()
 
 <!--
 <span class='anchor' id='-news'></span>
@@ -61,6 +61,11 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
 - *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 -->
+
+<span class='anchor' id='-grants'></span>
+# 🌟 Grants
+- *2024.9 - present*, **Implementing a Comprehensive Federated Aggregation Algorithm Compatible with Poisoning Detection, Compression, Privacy Protection, and Non i.i.d. Based on MindSpore Federated**, [Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China(CSAC)](https://www.cybersac.cn/newhome) and [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/) (total amount: ￥60,000 RMB)
+
 
 <span class='anchor' id='-projects'></span>
 # 🛠️ Projects
