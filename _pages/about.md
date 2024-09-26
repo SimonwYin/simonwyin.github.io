@@ -144,11 +144,11 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 -->
 
 # 📑 Teaching Assistant
-- *2021 spring*, Mathematics for Information Security, XDU.
+- *2020-2021 spring*, Mathematics for Information Security, XDU.
 
 
 # ✨ Miscellaneous
-
+Apart from academic pursuits, I enjoy a wide range of sports such as swimming, cycling, badminton and ping-pong. Additionally, I am a passionate photographer, always seeking to capture the beauty of the world through my lens. One of my special hobbies is that I love all things about deduction and suspense, especially I am a fan of the anime 名探偵コナン (Detective Conan, 名侦探柯南) and the TV series Detective Dee (神探狄仁杰)!
 
 <!--
 # 💬 Invited Talks
