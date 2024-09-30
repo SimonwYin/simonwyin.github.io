@@ -18,7 +18,7 @@ jobs:
           # 获取当前日期（格式为 yyyy-MM-dd）
           TODAY=$(date "+%Y-%m-%d")
           # 使用 sed 替换占位符 {{ update_date }} 为当前日期
-          sed -i "s/{{ update_date }}/$TODAY/" ../../layouts/default.html
+          sed -i "s/{{ update_date }}/$TODAY/" ../../_layouts/default.html
 
       - name: Configure Git
         run: |
