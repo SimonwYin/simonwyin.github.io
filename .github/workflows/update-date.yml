@@ -27,7 +27,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add index.html
+          git add ../../_layouts/default.html
           git commit -m "Update last modified date to $TODAY"
           git push origin main
 
