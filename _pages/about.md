@@ -205,6 +205,9 @@ Apart from academic pursuits, I enjoy a wide range of sports such as swimming, c
 -->
 
 ------
+This page was last updated on: **{{ update_date }}**
+
+------
 
 <p align="center">
   <i>If you truly desire to accomplish something, you absolutely can—so long as you really, really want it and are willing to pursue it.</i><br>
