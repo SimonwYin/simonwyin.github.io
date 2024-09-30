@@ -153,6 +153,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 <span class='anchor' id='teaching-assistant'></span>
 # 📑 Teaching Assistant
+- *Fall 2023*, Prvacy and Security, BUAA.
 - *Spring 2021*, Mathematics for Information Security, XDU.
 
 <span class='anchor' id='miscellaneous'></span>
