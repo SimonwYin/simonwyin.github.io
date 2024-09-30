@@ -48,8 +48,8 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   
 <span class='anchor' id='--honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2023.09* Second-Class Graduate Academic Scholarship
-- *2023.06* Postgraduate Second-Class Scholarship
+- *2023.09* Second-Class Graduate Study Scholarship
+- *2023.06* Second-Class Graduate Scholarship
 - *2022.10* National Encouragement Scholarship (Top 5%)
 - *2022.05* Outstanding Member of the Communist Youth League Member at School Level
 - *2021.10* National Encouragement Scholarship (Top 5%)
@@ -153,7 +153,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 <span class='anchor' id='teaching-assistant'></span>
 # 📑 Teaching Assistant
-- *2020-2021 spring*, Mathematics for Information Security, XDU.
+- *Spring 2021*, Mathematics for Information Security, XDU.
 
 <span class='anchor' id='miscellaneous'></span>
 # ✨ Miscellaneous
