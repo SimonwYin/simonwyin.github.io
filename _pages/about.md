@@ -204,7 +204,7 @@ Apart from academic pursuits, I enjoy a wide range of sports such as swimming, c
 </div>
 -->
 
-------
+
 This page was last updated on: **{{ update_date }}**
 
 ------
