@@ -89,7 +89,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 # 🛠️ Projects
 - *2023.09-Present*, Research on Key Technology and Application of Fully Homomorphic Encryption for Big Data, Open Project of State Key Laboratory of Cryptology (Participated as a core member).
 - *2024.03-Present*, Research on Efficient Privacy-Preserving Key Methods for Federated Learning and Blockchain, General Project of Beijing Natural Science Foundation (Participated as a core member).
-- *2022.12-2023.06*, Research on Privacy-preserving Mechanism of Federated Learning for Power Big Data. [[gitee](https://gitee.com/xmasker/ppfl-ebigdata)]
+- *2022.12-2023.06*, Research on Privacy-Preserving Federated Learning for Power Big Data. [[gitee](https://gitee.com/xmasker/ppfl-ebigdata)]
 - *2021.09-2022.01*, Behavior Analysis Research on Worm and Trojan Invasion in Intranet and Automated Construction of Experimental Cloud Platform (蠕虫木马入侵内网后的行为分析研究及实验云平台自动化搭建 **Guided by a mentor from Alibaba**). [[gitee](https://gitee.com/xmasker/research-platform)]
 - *2021.09-2022.01*, Anonymous Traffic Identification Based on Flow Multi-filtering and Website Fingerprinting. [[gitee](https://gitee.com/xmasker/flow-identification)]
 
