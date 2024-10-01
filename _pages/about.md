@@ -70,7 +70,6 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2024.07*: &nbsp;I won the Cyber Security Academy Student Innovation Funding, Funded by Cyber Security Association of China (CSAC) and Huawei Technologies Co., Ltd.
 
 
-
 <!--
 <span class='anchor' id='-news'></span>
 # 🔥 News
