@@ -17,7 +17,7 @@ redirect_from:
 
 
 # Welcome! 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 # 🧐 About Me
 I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
 
@@ -54,7 +54,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
   - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
   
-<span class='anchor' id='--honors-and-awards'></span>
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖️ Honors and Awards
 - *2023.09* The Second Prize Graduate Study Scholarship, Beihang University
 - *2023.06* The Second Prize Graduate Scholarship, Xidian University
