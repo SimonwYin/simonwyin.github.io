@@ -54,7 +54,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
   
 <span class='anchor' id='--honors-and-awards'></span>
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2023.09* The Second Prize Graduate Study Scholarship, Beihang University
 - *2023.06* The Second Prize Graduate Scholarship, Xidian University
 - *2022.10* The National Encouragement Scholarship (Top 5%), Ministry of Education of P.R.C.
