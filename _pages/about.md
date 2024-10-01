@@ -81,7 +81,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 -->
 
 <span class='anchor' id='-grants'></span>
-# 🌟 Grants
+# 🌟 Competitive Grants
 - *2024.10 - 2025.04*, **Implementing a Comprehensive Federated Aggregation Algorithm Compatible with Poisoning Detection, Compression, Privacy Protection, and Non i.i.d. Based on MindSpore Federated**, [Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China (CSAC)](https://www.cybersac.cn/newhome) and [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/) (**60 winners nationwide, total amount: 60,000 RMB**)
 
 
