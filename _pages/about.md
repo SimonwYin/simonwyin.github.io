@@ -23,7 +23,7 @@ I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn
 
 My research interest includes **Privacy-preserving Federated Learning** and **Privacy-enhancing Techniques** (including but not limited to Differential Privacy (DP), Homomorphic Encryption (HE), and Secure Multi-party Computation (SMPC)), I work to design and develop practical privacy-preserving tools for federated learning and any other big data technologies. **Currently, I am deeply involved in projects related to Federated Learning and Differential Privacy as part of my Master's research.**
 
-You can find my CV here: [Weijun Yin’s Curriculum Vitae](../cv/CV_Yin.pdf). If you are interested in my work, please feel free to drop me an [email](yinweijun@buaa.edu.cn).
+You can find my CV here: [Weijun Yin’s Curriculum Vitae](../cv/Curriculum_Vitae_Yin.pdf). If you are interested in my work, please feel free to drop me an [email](yinweijun@buaa.edu.cn).
 <!--
   You can find my CV here: Ming Zhan’s Curriculum Vitae. If you are interested in my work, please feel free to drop me an email.
 -->
