@@ -56,10 +56,11 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖️ Honors and Awards
+- *2024.10* Outstanding Member of the Communist Youth League, Beihang University
 - *2023.09* The Second Prize Graduate Study Scholarship, Beihang University
 - *2023.06* The Second Prize Graduate Scholarship, Xidian University
 - *2022.10* The National Encouragement Scholarship (Top 5%), Ministry of Education of P.R.C.
-- *2022.05* Outstanding Member of the Communist Youth League Member, Xidian University
+- *2022.05* Outstanding Member of the Communist Youth League, Xidian University
 - *2021.10* The National Encouragement Scholarship (Top 5%), Ministry of Education of P.R.C.
 - *2020.10* The Second Prize Scholarship (Top 10%), Xidian University
 
@@ -67,6 +68,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2024.10*: &nbsp;I was awarded Outstanding Member of the Communist Youth League.
 - *2024.07*: &nbsp;I won the Cyber Security Academy Student Innovation Funding, Funded by Cyber Security Association of China (CSAC) and Huawei Technologies Co., Ltd.
 
 
