@@ -56,6 +56,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖️ Honors and Awards
+- *2024.11* The Second Prize Graduate Study Scholarship, Beihang University
 - *2024.10* Outstanding Member of the Communist Youth League, Beihang University
 - *2023.09* The Second Prize Graduate Study Scholarship, Beihang University
 - *2023.06* The Second Prize Graduate Scholarship, Xidian University
