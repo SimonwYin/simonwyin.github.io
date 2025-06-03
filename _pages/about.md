@@ -19,9 +19,13 @@ redirect_from:
 # Welcome! 
 <span class='anchor' id='-about-me'></span>
 # 🧐 About Me
-I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
+I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). I am also very fortunate to closely work with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](https://pradalab1.github.io/) at [KAUST](https://www.kaust.edu.sa/en/). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
 
+<!--
 My research interest includes **Privacy-preserving Federated Learning** and **Privacy-enhancing Techniques** (including but not limited to Differential Privacy (DP), Homomorphic Encryption (HE), and Secure Multi-party Computation (SMPC)), I work to design and develop practical privacy-preserving tools for federated learning and any other big data technologies. **Currently, I am deeply involved in projects related to Federated Learning and Differential Privacy as part of my Master's research.**
+-->
+
+My research interests include **Machine Unlearning** and **Differential Privacy-based Privacy Preserving** in federated learning. In the area of machine unlearning, I focus primarily on **efficient provable federated unlearning** and **efficient verifiable LLM unlearning**. In the field of differential privacy-based privacy preserving for federated learning, my recent work has concentrated on designing **high-availability personalized differential privacy aggregation algorithms** for federated learning systems.
 
 You can find my CV here: [Weijun Yin’s Curriculum Vitae](../cv/Curriculum_Vitae_Yin.pdf). If you are interested in my work, please feel free to drop me an [email](yinweijun@buaa.edu.cn).
 <!--
