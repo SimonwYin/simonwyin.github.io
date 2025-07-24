@@ -19,7 +19,7 @@ redirect_from:
 # Welcome! 
 <span class='anchor' id='-about-me'></span>
 # 🧐 About Me
-I am now a master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). I am also very fortunate to closely work with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](https://pradalab1.github.io/) at [KAUST](https://www.kaust.edu.sa/en/). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
+I am now a PhD student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). I am also very fortunate to closely work with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](https://pradalab1.github.io/) at [KAUST](https://www.kaust.edu.sa/en/). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
 
 <!--
 My research interest includes **Privacy-preserving Federated Learning** and **Privacy-enhancing Techniques** (including but not limited to Differential Privacy (DP), Homomorphic Encryption (HE), and Secure Multi-party Computation (SMPC)), I work to design and develop practical privacy-preserving tools for federated learning and any other big data technologies. **Currently, I am deeply involved in projects related to Federated Learning and Differential Privacy as part of my Master's research.**
@@ -53,7 +53,9 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.09 - Present*, Master's student in Network and Information Security, School of Cyber Science and Technology, Beihang University, Beijing, China
+- *2025.09 - Present*, PhD's student in Cyberspace Security, School of Cyber Science and Technology, Beihang University, Beijing, China
+  - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+- *2023.09 - 2025.08*, Master's student in Network and Information Security (Master-PhD Direct Program, Master's Stage), School of Cyber Science and Technology, Beihang University, Beijing, China
   - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 - *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
   - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
