@@ -19,7 +19,7 @@ redirect_from:
 # Welcome! 
 <span class='anchor' id='-about-me'></span>
 # 🧐 About Me
-I am now a PhD student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). I am also very fortunate to closely work with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](https://pradalab1.github.io/) at [KAUST](https://www.kaust.edu.sa/en/). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
+I am now a Master student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), [School of Cyber Science and Technology](https://cst.buaa.edu.cn/), supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm). I am also very fortunate to closely work with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](https://pradalab1.github.io/) at [KAUST](https://www.kaust.edu.sa/en/). Previously, I received my B.Eng. degree at [Xidian University (XDU)](https://www.xidian.edu.cn/), [School of Cyber Engineering](https://cst.buaa.edu.cn/), under supervision of [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm) in June 2023.
 
 <!--
 My research interest includes **Privacy-preserving Federated Learning** and **Privacy-enhancing Techniques** (including but not limited to Differential Privacy (DP), Homomorphic Encryption (HE), and Secure Multi-party Computation (SMPC)), I work to design and develop practical privacy-preserving tools for federated learning and any other big data technologies. **Currently, I am deeply involved in projects related to Federated Learning and Differential Privacy as part of my Master's research.**
@@ -72,12 +72,16 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2020.10* The Second Prize Scholarship (Top 10%), Xidian University
 
 
-
+<span class='anchor' id='-news'></span>
+# 🔥 News
+- *2024.10*: &nbsp;I was awarded Outstanding Member of the Communist Youth League.
+<!--
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2025.07*: &nbsp;I won the Cybersecurity College Student Innovation Funding Program, Funded by Cyber Security Association of China (CSAC) and Xiaoju (DiDi) Technologies Co., Ltd.
 - *2024.10*: &nbsp;I was awarded Outstanding Member of the Communist Youth League.
 - *2024.05*: &nbsp;I won the Cybersecurity College Student Innovation Funding Program, Funded by Cyber Security Association of China (CSAC) and Huawei Technologies Co., Ltd.
+-->
 
 
 <!--
@@ -90,10 +94,15 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 -->
 
+
+<span class='anchor' id='-grants'></span>
+# 🌟 Competitive Grants
+<!--
 <span class='anchor' id='-grants'></span>
 # 🌟 Competitive Grants
 - *2025.07 - 2026.06*, _"Removal of Training Data Containing Sensitive or Inappropriate Information for Generative Artificial Intelligence (Model Disgorgement)"_, [Cybersecurity College Student Innovation Funding Program (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China (CSAC)](https://www.cybersac.cn/newhome) and [Beijing Xiaoju (DiDi) Technologies Co., Ltd](https://www.didiglobal.com/) (**60 winners nationwide, total amount: 60,000 RMB**).
 - *2024.05 - 2025.04*, _"Implementing a Comprehensive Federated Aggregation Algorithm Compatible with Poisoning Detection, Compression, Privacy Protection, and Non i.i.d. Based on MindSpore Federated"_, [Cybersecurity College Student Innovation Funding Program (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China (CSAC)](https://www.cybersac.cn/newhome) and [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/) (**60 winners nationwide, total amount: 60,000 RMB**).
+-->
 
 
 <span class='anchor' id='-projects'></span>
