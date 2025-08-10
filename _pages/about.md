@@ -58,6 +58,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 - *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
   - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+  
 <!--
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
