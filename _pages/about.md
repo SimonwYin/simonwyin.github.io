@@ -51,6 +51,14 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
+
+<span class='anchor' id='-educations'></span>
+# 📖 Educations
+- *2023.09 - Present*, Master's student in Network and Information Security (Master-PhD Direct Program, Master's Stage), School of Cyber Science and Technology, Beihang University, Beijing, China
+  - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+- *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
+  - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+<!--
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2025.09 - Present*, PhD's student in Cyberspace Security, School of Cyber Science and Technology, Beihang University, Beijing, China
@@ -59,6 +67,9 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   - Supervised by [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
 - *2019.09 - 2023.06*, Bachelor of Engineering in Information Security, School of Cyber Engineering, Xidian University, Xi'an, China
   - Supervised by [Dr. Shanfeng Wang](https://web.xidian.edu.cn/sfwang/index.html) and [Dr. Yanqing Yao](https://cst.buaa.edu.cn/info/1112/2746.htm)
+-->
+
+
   
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖️ Honors and Awards
@@ -75,6 +86,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2024.10*: &nbsp;I was awarded Outstanding Member of the Communist Youth League.
+  
 <!--
 <span class='anchor' id='-news'></span>
 # 🔥 News
@@ -97,6 +109,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-grants'></span>
 # 🌟 Competitive Grants
+
 <!--
 <span class='anchor' id='-grants'></span>
 # 🌟 Competitive Grants
