@@ -86,7 +86,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2024.10*: &nbsp;I was awarded Outstanding Member of the Communist Youth League.
+- *2026.09*: &nbsp;One paper has been accepted at IEEE Transactions on Networking!
   
 <!--
 <span class='anchor' id='-news'></span>
