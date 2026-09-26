@@ -109,13 +109,8 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-grants'></span>
 # 🌟 Competitive Grants
-
-<!--
-<span class='anchor' id='-grants'></span>
-# 🌟 Competitive Grants
 - *2025.07 - 2026.06*, _"Removal of Training Data Containing Sensitive or Inappropriate Information for Generative Artificial Intelligence (Model Disgorgement)"_, [Cybersecurity College Student Innovation Funding Program (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China (CSAC)](https://www.cybersac.cn/newhome) and [Beijing Xiaoju (DiDi) Technologies Co., Ltd](https://www.didiglobal.com/) (**60 winners nationwide, total amount: 60,000 RMB**).
 - *2024.05 - 2025.04*, _"Implementing a Comprehensive Federated Aggregation Algorithm Compatible with Poisoning Detection, Compression, Privacy Protection, and Non i.i.d. Based on MindSpore Federated"_, [Cybersecurity College Student Innovation Funding Program (一流网络安全学院学生创新资助计划)](https://zzjh.org.cn/#/), Funded by [Cyber Security Association of China (CSAC)](https://www.cybersac.cn/newhome) and [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/) (**60 winners nationwide, total amount: 60,000 RMB**).
--->
 
 
 <span class='anchor' id='-projects'></span>
