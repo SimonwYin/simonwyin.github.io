@@ -130,9 +130,10 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
-   (<sup>&#42;</sup> Equal contribution; <sup>†</sup> Corresponding author.)
+   (<sup>*</sup> Equal contribution; <sup>†</sup> Corresponding author.)
 1. [One-Shot Federated Model Editing for Device Dynamics at the Edge](https://ieeexplore.ieee.org/document/10217826)<br>
    Youming Tao<sup>*</sup>, **Weijun Yin**<sup>*</sup>, Huanyi Xie, Yanqing Yao<sup>†</sup>, Dongxiao Yu, Xiuzhen Cheng, Di Wang<sup>†</sup>, Falko Dressler<br>
+   Accepted at <em>**IEEE Transactions on Networking (TON)**</em> (CCF A), 2026.<br>
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
