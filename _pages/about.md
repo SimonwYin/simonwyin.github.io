@@ -130,14 +130,13 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
-<!--
-- 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+   (<sup>&#42;</sup> Equal contribution; <sup>†</sup> Corresponding author.)
+1. [One-Shot Federated Model Editing for Device Dynamics at the Edge](https://ieeexplore.ieee.org/document/10217826)<br>
+   Youming Tao<sup>*</sup>, **Weijun Yin**<sup>*</sup>, Huanyi Xie, Yanqing Yao<sup>†</sup>, Dongxiao Yu, Xiuzhen Cheng, Di Wang<sup>†</sup>, Falko Dressler<br>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
-
-**Ming Zhan**, Jingjing Fan, Jianying Guo
 
 [**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
 - IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
@@ -164,7 +163,6 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - Sensors 23, no. 20: 8388. https://doi.org/10.3390/s23208388.
 </div>
 </div>
--->
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTETS 2023</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
