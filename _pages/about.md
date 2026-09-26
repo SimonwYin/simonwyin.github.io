@@ -190,7 +190,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 -->
 
 <span class='anchor' id='professional-service'></span>
-# 📑 Professional Service
+# 📜 Professional Service
 - Conference reviewer<br>
   ICME [2025][2026]<br>
 - Journal reviewer<br>
@@ -199,7 +199,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 
 <span class='anchor' id='teaching-assistant'></span>
-# 📑 Teaching Assistant
+# 🧑‍🏫 Teaching Assistant
 - *Fall 2023*, Prvacy and Security, BUAA.
 - *Spring 2021*, Mathematics for Information Security, XDU.
 
