@@ -73,6 +73,16 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
   
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖️ Honors and Awards
+- *2026.10* First-Class Academic Scholarship for Graduate Students, Beihang University
+- *2026.09* Outstanding Student Cadre, Beihang University
+- *2026.04* Outstanding Communist Party Member, School of Cyber Science and Technology, Beihang University
+- *2024.10* Outstanding Member of the Communist Youth League, Beihang University
+- *2022.10* The National Encouragement Scholarship (Top 5%), Ministry of Education of P.R.C.
+- *2022.05* Outstanding Member of the Communist Youth League, Xidian University
+- *2021.10* The National Encouragement Scholarship (Top 5%), Ministry of Education of P.R.C.
+
+<!--
+# 🎖️ Honors and Awards
 - *2024.11* The Second Prize Graduate Study Scholarship, Beihang University
 - *2024.10* Outstanding Member of the Communist Youth League, Beihang University
 - *2023.09* The Second Prize Graduate Study Scholarship, Beihang University
@@ -81,6 +91,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.05* Outstanding Member of the Communist Youth League, Xidian University
 - *2021.10* The National Encouragement Scholarship (Top 5%), Ministry of Education of P.R.C.
 - *2020.10* The Second Prize Scholarship (Top 10%), Xidian University
+-->
 
 
 <span class='anchor' id='-news'></span>
