@@ -204,6 +204,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 # 📜 Professional Service
 - Conference reviewer<br>
   ICME [2025][2026]<br>
+  ICASSP [2027]<br>
 - Journal reviewer<br>
   2026-: IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
 
