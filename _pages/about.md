@@ -27,7 +27,7 @@ My research interest includes **Privacy-preserving Federated Learning** and **Pr
 
 My research interests include **Machine Unlearning** and **Differential Privacy-based Privacy Preservation** for federated learning. In the area of machine unlearning, my work primarily revolves around **efficient and effective federated unlearning** and **efficient and effective LLM unlearning**. In the field of differential privacy-based privacy preservation for federated learning, I have recently been focusing on the design of **high-availability differential privacy aggregation algorithms** to enhance federated learning systems.
 
-You can find my CV here: [Weijun Yin’s Curriculum Vitae](../cv/Curriculum_Vitae_Yin.pdf). If you are interested in my work, please feel free to drop me an [email](yinweijun@buaa.edu.cn).
+You can find my CV here: [Weijun Yin’s Curriculum Vitae](../cv/Curriculum_Vitae_Yin.pdf). If you are interested in my work, please feel free to drop me an email.
 <!--
   You can find my CV here: Ming Zhan’s Curriculum Vitae. If you are interested in my work, please feel free to drop me an email.
 -->
